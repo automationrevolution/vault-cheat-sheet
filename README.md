@@ -153,7 +153,6 @@
 
 <td></td>
 </tr>
-<p>Certainly! Here are more commands for HashiCorp Vault:</p>
 <h3>Secrets Engines</h3>
 <table>
 <thead>
