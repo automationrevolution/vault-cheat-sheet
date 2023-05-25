@@ -1,4 +1,4 @@
-# vault-cheat-sheet
+# Vault Cheat Sheet
 
 
 <h2>Vault Commands Cheat Sheet</h2>
